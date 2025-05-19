@@ -1,5 +1,0 @@
-D:/PetProjects/lu/lua-5.4.7/build/CMakeFiles/lualib.dir
-D:/PetProjects/lu/lua-5.4.7/build/CMakeFiles/lua_interp.dir
-D:/PetProjects/lu/lua-5.4.7/build/CMakeFiles/luac.dir
-D:/PetProjects/lu/lua-5.4.7/build/CMakeFiles/edit_cache.dir
-D:/PetProjects/lu/lua-5.4.7/build/CMakeFiles/rebuild_cache.dir
