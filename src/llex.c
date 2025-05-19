@@ -447,9 +447,9 @@ static int llex(LexState* ls, SemInfo* seminfo) {
 				next(ls);
 				break;
 			}
-			case '-': { /* '-' or '--' (comment) */
+			case '-': { /* '-' or '->' (comment) */
 				next(ls);
-				if (ls->current != '-')
+				if (ls->current != '>')
 					return '-';
 				/* else is a comment */
 				next(ls);
@@ -508,10 +508,10 @@ static int llex(LexState* ls, SemInfo* seminfo) {
 				else
 					return '/';
 			}
-			case '~': {
+			case '!': {
 				next(ls);
 				if (check_next1(ls, '='))
-					return TK_NE; /* '~=' */
+					return TK_NE; /* '!=' */
 				else
 					return '~';
 			}
