@@ -1,0 +1,34 @@
+CMakeFiles/lualib.dir/src/lauxlib.c.obj: \
+ D:/PetProjects/lu/lua-5.4.7/src/lauxlib.c \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/errno.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/corecrt.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/_mingw.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/vadefs.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdarg.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/stdarg.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/stdio.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/swprintf.inl \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/stdlib.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/lib/gcc/x86_64-w64-mingw32/14.2.0/include/limits.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/lib/gcc/x86_64-w64-mingw32/14.2.0/include/syslimits.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/limits.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/malloc.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/lib/gcc/x86_64-w64-mingw32/14.2.0/include/mm_malloc.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/string.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ D:/PetProjects/lu/lua-5.4.7/src/lprefix.h \
+ D:/PetProjects/lu/lua-5.4.7/src/lauxlib.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stddef.h \
+ C:/Users/thebe/scoop/apps/mingw/14.2.0-rt_v12-rev1/x86_64-w64-mingw32/include/stddef.h \
+ D:/PetProjects/lu/lua-5.4.7/src/luaconf.h \
+ D:/PetProjects/lu/lua-5.4.7/src/lua.h
